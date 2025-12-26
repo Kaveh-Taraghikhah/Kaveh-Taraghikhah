@@ -1,49 +1,66 @@
-# Personal CV Website
+# Hi, I’m <Your Name> 👋
 
-This repository hosts the source code for my personal CV website, built with **GitHub Pages**.  
-The site serves as a central place to showcase my research background, projects, publications, and interests in robotics.
+I’m a **robotics researcher and engineer** working at the intersection of **control systems, SLAM, and artificial intelligence**.  
+My interests span both **academic research** and **industry applications**, with a focus on building reliable, real-world robotic systems.
 
-## About Me
+## 🔬 Research Interests
 
-I am a robotics researcher with a strong interest in:
+- Control systems (linear, nonlinear, optimal, and learning-based control)
+- SLAM and state estimation
+- Autonomous systems and robot perception
+- Machine learning and AI for robotics
+- Sensor fusion and real-time systems
 
-- **Control Systems** (linear, nonlinear, optimal, and learning-based control)
-- **SLAM** (Simultaneous Localization and Mapping)
-- **Artificial Intelligence & Machine Learning** for robotics
+## 🛠️ Engineering & Industry Focus
 
-My work focuses on building reliable, intelligent robotic systems that operate in complex and uncertain environments.
+In addition to research, I enjoy translating theory into practice by:
+- Designing and implementing control pipelines for real robotic platforms
+- Developing scalable and maintainable robotics software
+- Bridging classical robotics with modern learning-based methods
+- Working with real-world constraints such as noise, latency, and limited compute
 
-## Website
+## 📚 Background
 
-🌐 **Live site:** https://<your-username>.github.io/<repo-name>/
+- Robotics and control theory
+- Probabilistic state estimation
+- Applied machine learning
+- Strong foundation in mathematics and system modeling
 
-The website functions as:
-- An online CV
-- A research and project portfolio
-- A place to share publications, code, and technical writing
+*(More details available on my CV website below.)*
 
-## Structure
+## 🌐 Personal Website & CV
 
-Typical sections of the website include:
+👉 **CV / Research Portfolio:**  
+https://<your-username>.github.io/
 
-- **Home** – Short bio and research overview  
-- **CV** – Education, experience, and skills  
-- **Research & Projects** – Robotics, control, SLAM, and AI-related work  
-- **Publications** – Papers, preprints, and reports  
-- **Contact** – Email and academic profiles
+The site includes my:
+- Academic CV
+- Research projects and publications
+- Selected engineering and robotics projects
 
-## Technologies
+## 📌 Selected Topics & Tools
 
-This site is built using:
+- ROS / ROS 2
+- Python, C++
+- Optimization and numerical methods
+- Simulation and real-world deployment
+- Classical + learning-based robotics approaches
 
-- GitHub Pages  
-- HTML / CSS / JavaScript *(or Jekyll, if applicable)*  
-- Markdown for content
+## 🤝 Open to Collaboration
 
-## Local Development (Optional)
+I’m interested in collaborating on:
+- Robotics research projects
+- Applied robotics and autonomy
+- Control, SLAM, and AI-driven systems
 
-If you want to run the site locally:
+Feel free to reach out if you’d like to collaborate or discuss ideas.
 
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+## 📫 Contact
+
+- Email: your.email@example.com  
+- GitHub: https://github.com/<your-username>  
+- Google Scholar / LinkedIn: *(optional)*
+
+---
+
+*Robotics sits at the boundary between theory and reality — that’s where I like to work.*
