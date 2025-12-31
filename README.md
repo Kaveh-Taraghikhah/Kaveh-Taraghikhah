@@ -1,4 +1,4 @@
-# Hi, I’m <Your Name> 👋
+# Hi, I’m Kaveh Taraghikhah 👋
 
 I’m a **robotics researcher and engineer** working at the intersection of **control systems, SLAM, and artificial intelligence**.  
 My interests span both **academic research** and **industry applications**, with a focus on building reliable, real-world robotic systems.
@@ -31,7 +31,6 @@ In addition to research, I enjoy translating theory into practice by:
 ## 🌐 Personal Website & CV
 
 👉 **CV / Research Portfolio:**  
-https://<your-username>.github.io/
 
 The site includes my:
 - Academic CV
@@ -40,11 +39,12 @@ The site includes my:
 
 ## 📌 Selected Topics & Tools
 
-- ROS / ROS 2
+- ROS 2
 - Python, C++
 - Optimization and numerical methods
 - Simulation and real-world deployment
 - Classical + learning-based robotics approaches
+- Computer Vision
 
 ## 🤝 Open to Collaboration
 
@@ -57,9 +57,10 @@ Feel free to reach out if you’d like to collaborate or discuss ideas.
 
 ## 📫 Contact
 
-- Email: your.email@example.com  
-- GitHub: https://github.com/<your-username>  
-- Google Scholar / LinkedIn: *(optional)*
+- Email:
+- GitHub: https://github.com/Kaveh-Taraghikhah
+- Google Scholar:
+- LinkedIn:
 
 ---
 
